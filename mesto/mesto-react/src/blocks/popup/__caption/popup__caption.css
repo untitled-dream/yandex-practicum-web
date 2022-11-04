@@ -1,0 +1,12 @@
+.popup__caption {
+    display: flex;
+    justify-content: space-between;
+    margin-top: 10px;
+    /*max-width: 291px;*/
+}
+
+/*@media screen and (max-width: 620px) {
+    .popup__caption {
+        max-width: 240px;
+    }    
+}*/

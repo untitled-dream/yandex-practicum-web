@@ -1,0 +1,7 @@
+.footer__social-icon {
+  filter: brightness(0) invert(1);
+  line-height: normal;
+  margin-right: 10px;
+  height: 16px;
+  width: 16px;
+}

@@ -1,0 +1,14 @@
+.footer__list {
+    display: flex;
+    flex-wrap: wrap;
+    list-style: none;
+    margin: 0;
+    padding: 0;
+}
+
+@media screen and (max-width: 480px) {
+    .footer__list {
+        flex-direction: column;
+        margin-bottom: 48px;
+    }
+}

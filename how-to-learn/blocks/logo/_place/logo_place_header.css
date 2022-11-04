@@ -1,0 +1,12 @@
+.logo_place_header {
+  top: 30px;
+  left: 64px;
+  position: absolute;
+  transition: opacity .2s linear;
+  z-index: 1;
+}
+
+
+.logo_place_header:hover {
+  opacity: .4;
+}

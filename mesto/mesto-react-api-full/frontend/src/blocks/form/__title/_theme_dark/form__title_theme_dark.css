@@ -1,0 +1,5 @@
+.form__title_theme_dark {
+  color: var(--color-text);
+  text-align: center;
+  margin: 0 auto 50px
+}

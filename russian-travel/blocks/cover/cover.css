@@ -1,0 +1,28 @@
+.cover {
+    display: flex;
+    flex-direction: column;
+    margin: 92px auto;
+    padding: 0;
+    width: calc(100% - 2*48px);
+}
+
+@media screen and (max-width: 1024px) {
+    .cover {
+        margin-top: 89px;
+        margin-bottom: 92px;
+        width: 100%;
+    }
+}
+
+@media screen and (max-width: 768px) {
+    .cover {
+        margin-bottom: 88px;
+    }
+}
+
+@media screen and (max-width: 480px) {
+    .cover {
+        margin-top: 66px;
+        margin-bottom: 64px;
+    }
+}

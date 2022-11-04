@@ -1,0 +1,10 @@
+
+@keyframes tooltip-appearance {
+    from {
+        gap: 0;
+    }
+
+    to {
+        gap: 20px;
+    }
+}

@@ -1,0 +1,13 @@
+.elements__card {
+    background-color: transparent;
+    border-radius: 10px;
+    display: grid;
+    width: 282px;
+    position: relative;
+}
+
+@media screen and (max-width: 1000px) {
+    .elements__card {
+        justify-self: center;
+    }
+}

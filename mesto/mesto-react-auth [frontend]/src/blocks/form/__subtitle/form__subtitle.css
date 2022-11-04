@@ -1,0 +1,13 @@
+.form__subtitle {
+  color: var(--color-text);
+  font-weight: 400;
+  font-size: 14px;
+  line-height: 17px;
+  text-align: center;
+  margin: 15px 0 0;
+  position: absolute;
+  bottom: -29px;
+  right: 50%;
+  transform: translateX(50%);
+  width: 100%;
+}

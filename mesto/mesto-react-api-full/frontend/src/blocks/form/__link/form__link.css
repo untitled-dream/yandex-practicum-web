@@ -1,0 +1,14 @@
+.form__link {
+  color: inherit;
+  background-image: linear-gradient(var(--color-text), var(--color-text));
+  background-size: 0% 1px;
+  background-repeat: no-repeat;
+  background-position: 0 100%;
+  text-decoration: none;
+  transition: background-size 0.4s;
+  width: fit-content;
+}
+
+.form__link:hover {
+  background-size: 100% 1px;
+}
